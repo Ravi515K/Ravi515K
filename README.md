@@ -1,8 +1,8 @@
 <h1>Hi👋 I'm Ravichandra</h1>
 <h2><p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
-</p>
- <br/></h2>
+    <a href="#"><img src="https://readme-typing-svg.herokuapp.com?         color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
+  </p>
+</h2>
  <h3 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=hi! I am Ravichandra Koli 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=22&pause=1000"></a>
@@ -34,9 +34,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ravi515K&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ravi515K&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi515K&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
