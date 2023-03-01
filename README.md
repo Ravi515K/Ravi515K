@@ -1,5 +1,8 @@
-<h1>Hi👋 My name is Ravichandra</h1>
-<img align="right" alt="coding" width="250" src="https://www.lambdatest.com/resources/images/news24.gif"/>
+<h1>Hi👋 I'm Ravichandra</h1>
+<h2><p align="center">
+    <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
+  </p>
+</h2>
  <h3 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=hi! I am Ravichandra Koli 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=22&pause=1000"></a>
@@ -9,7 +12,7 @@
  <p>I am passionate about Full Stack Web Development.1I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.</p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravi515K&label=Profile%20views&color=0e75b6&style=flat" alt="Error" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravinder1310&label=Profile%20views&color=0e75b6&style=flat" alt="Error" /> </p>
 
 -  I’m currently learning *MERN stack*
 
