@@ -6,7 +6,7 @@
 </h3>
  
   <div align="center">
- <p>I am passionate about Full Stack Web Development.1I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.</p>
+ <p>I am passionate about Full Stack Web Development.I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.</p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravi515K&label=Profile%20views&color=0e75b6&style=flat" alt="Error" /> </p>
